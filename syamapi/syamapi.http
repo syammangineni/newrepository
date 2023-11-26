@@ -1,0 +1,6 @@
+@syamapi_HostAddress = http://localhost:5002
+
+GET {{syamapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

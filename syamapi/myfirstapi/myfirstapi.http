@@ -1,6 +1,0 @@
-@myfirstapi_HostAddress = http://localhost:5070
-
-GET {{myfirstapi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
